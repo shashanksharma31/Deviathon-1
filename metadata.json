@@ -1,0 +1,6 @@
+{
+  "name": "Viare",
+  "description": "Viare Smart Navigation — Discover a little more. Intelligent navigation and heritage exploration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
